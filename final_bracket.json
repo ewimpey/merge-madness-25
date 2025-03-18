@@ -1,0 +1,351 @@
+{
+    "round0": {
+        "game1": {
+            "team1": "Alabama St",
+            "team2": "Saint Francis U",
+            "winner": "Alabama St"
+        },
+        "game2": {
+            "team1": "Texas",
+            "team2": "Xavier",
+            "winner": "Texas"
+        },
+        "game3": {
+            "team1": "American",
+            "team2": "Mount St Mary's",
+            "winner": "American"
+        },
+        "game4": {
+            "team1": "San Diego St",
+            "team2": "UNC",
+            "winner": "UNC"
+        }
+    },
+    "round1": {
+        "game1": {
+            "team1": "Auburn",
+            "team2": "Alabama St",
+            "winner": "Auburn"
+        },
+        "game2": {
+            "team1": "Louisville",
+            "team2": "Creighton",
+            "winner": "Louisville"
+        },
+        "game3": {
+            "team1": "Michigan",
+            "team2": "UC San Diego",
+            "winner": "Michigan"
+        },
+        "game4": {
+            "team1": "Texas A&M",
+            "team2": "Yale",
+            "winner": "Texas A&M"
+        },
+        "game5": {
+            "team1": "Ole Miss",
+            "team2": "UNC",
+            "winner": "UNC"
+        },
+        "game6": {
+            "team1": "Iowa St",
+            "team2": "Lipscomb",
+            "winner": "Iowa St"
+        },
+        "game7": {
+            "team1": "Marquette",
+            "team2": "New Mexico",
+            "winner": "New Mexico"
+        },
+        "game8": {
+            "team1": "Michigan St",
+            "team2": "Bryant",
+            "winner": "Michigan St"
+        },
+        "game9": {
+            "team1": "Florida",
+            "team2": "Norfolk St",
+            "winner": "Florida"
+        },
+        "game10": {
+            "team1": "UConn",
+            "team2": "Oklahoma",
+            "winner": "UConn"
+        },
+        "game11": {
+            "team1": "Memphis",
+            "team2": "Colorado St",
+            "winner": "Colorado St"
+        },
+        "game12": {
+            "team1": "Maryland",
+            "team2": "Grand Canyon",
+            "winner": "Maryland"
+        },
+        "game13": {
+            "team1": "Missouri",
+            "team2": "Drake",
+            "winner": "Missouri"
+        },
+        "game14": {
+            "team1": "Texas Tech",
+            "team2": "UNC Wilmington",
+            "winner": "Texas Tech"
+        },
+        "game15": {
+            "team1": "Kansas",
+            "team2": "Arkansas",
+            "winner": "Kansas"
+        },
+        "game16": {
+            "team1": "Saint John's",
+            "team2": "Omaha",
+            "winner": "Saint John's"
+        },
+        "game17": {
+            "team1": "Duke",
+            "team2": "American",
+            "winner": "Duke"
+        },
+        "game18": {
+            "team1": "Mississippi St",
+            "team2": "Baylor",
+            "winner": "Baylor"
+        },
+        "game19": {
+            "team1": "Oregon",
+            "team2": "Liberty",
+            "winner": "Oregon"
+        },
+        "game20": {
+            "team1": "Arizona",
+            "team2": "Akron",
+            "winner": "Arizona"
+        },
+        "game21": {
+            "team1": "BYU",
+            "team2": "VCU",
+            "winner": "BYU"
+        },
+        "game22": {
+            "team1": "Wisconsin",
+            "team2": "Montana",
+            "winner": "Wisconsin"
+        },
+        "game23": {
+            "team1": "Saint Mary's",
+            "team2": "Vanderbilt",
+            "winner": "Saint Mary's"
+        },
+        "game24": {
+            "team1": "Alabama",
+            "team2": "Robert Morris",
+            "winner": "Alabama"
+        },
+        "game25": {
+            "team1": "Houston",
+            "team2": "SIU Edwardsville",
+            "winner": "Houston"
+        },
+        "game26": {
+            "team1": "Gonzaga",
+            "team2": "Georgia",
+            "winner": "Gonzaga"
+        },
+        "game27": {
+            "team1": "Clemson",
+            "team2": "McNeese",
+            "winner": "Clemson"
+        },
+        "game28": {
+            "team1": "Purdue",
+            "team2": "High Point",
+            "winner": "Purdue"
+        },
+        "game29": {
+            "team1": "Illinois",
+            "team2": "Texas",
+            "winner": "Illinois"
+        },
+        "game30": {
+            "team1": "Kentucky",
+            "team2": "Troy",
+            "winner": "Kentucky"
+        },
+        "game31": {
+            "team1": "UCLA",
+            "team2": "Utah St",
+            "winner": "UCLA"
+        },
+        "game32": {
+            "team1": "Tennessee",
+            "team2": "Wofford",
+            "winner": "Tennessee"
+        }
+    },
+    "round2": {
+        "game1": {
+            "team1": "Auburn",
+            "team2": "Louisville",
+            "winner": "Auburn"
+        },
+        "game2": {
+            "team1": "Michigan",
+            "team2": "Texas A&M",
+            "winner": "Texas A&M"
+        },
+        "game3": {
+            "team1": "UNC",
+            "team2": "Iowa St",
+            "winner": "Iowa St"
+        },
+        "game4": {
+            "team1": "New Mexico",
+            "team2": "Michigan St",
+            "winner": "Michigan St"
+        },
+        "game5": {
+            "team1": "Florida",
+            "team2": "UConn",
+            "winner": "Florida"
+        },
+        "game6": {
+            "team1": "Colorado St",
+            "team2": "Maryland",
+            "winner": "Maryland"
+        },
+        "game7": {
+            "team1": "Missouri",
+            "team2": "Texas Tech",
+            "winner": "Texas Tech"
+        },
+        "game8": {
+            "team1": "Kansas",
+            "team2": "Saint John's",
+            "winner": "Kansas"
+        },
+        "game9": {
+            "team1": "Duke",
+            "team2": "Baylor",
+            "winner": "Duke"
+        },
+        "game10": {
+            "team1": "Oregon",
+            "team2": "Arizona",
+            "winner": "Arizona"
+        },
+        "game11": {
+            "team1": "BYU",
+            "team2": "Wisconsin",
+            "winner": "Wisconsin"
+        },
+        "game12": {
+            "team1": "Saint Mary's",
+            "team2": "Alabama",
+            "winner": "Saint Mary's"
+        },
+        "game13": {
+            "team1": "Houston",
+            "team2": "Gonzaga",
+            "winner": "Houston"
+        },
+        "game14": {
+            "team1": "Clemson",
+            "team2": "Purdue",
+            "winner": "Clemson"
+        },
+        "game15": {
+            "team1": "Illinois",
+            "team2": "Kentucky",
+            "winner": "Kentucky"
+        },
+        "game16": {
+            "team1": "UCLA",
+            "team2": "Tennessee",
+            "winner": "Tennessee"
+        }
+    },
+    "round3": {
+        "game1": {
+            "team1": "Auburn",
+            "team2": "Texas A&M",
+            "winner": "Auburn"
+        },
+        "game2": {
+            "team1": "Iowa St",
+            "team2": "Michigan St",
+            "winner": "Iowa St"
+        },
+        "game3": {
+            "team1": "Florida",
+            "team2": "Maryland",
+            "winner": "Florida"
+        },
+        "game4": {
+            "team1": "Texas Tech",
+            "team2": "Kansas",
+            "winner": "Texas Tech"
+        },
+        "game5": {
+            "team1": "Duke",
+            "team2": "Arizona",
+            "winner": "Duke"
+        },
+        "game6": {
+            "team1": "Wisconsin",
+            "team2": "Saint Mary's",
+            "winner": "Wisconsin"
+        },
+        "game7": {
+            "team1": "Houston",
+            "team2": "Clemson",
+            "winner": "Houston"
+        },
+        "game8": {
+            "team1": "Kentucky",
+            "team2": "Tennessee",
+            "winner": "Tennessee"
+        }
+    },
+    "round4": {
+        "game1": {
+            "team1": "Auburn",
+            "team2": "Iowa St",
+            "winner": "Auburn"
+        },
+        "game2": {
+            "team1": "Florida",
+            "team2": "Texas Tech",
+            "winner": "Florida"
+        },
+        "game3": {
+            "team1": "Duke",
+            "team2": "Wisconsin",
+            "winner": "Duke"
+        },
+        "game4": {
+            "team1": "Houston",
+            "team2": "Tennessee",
+            "winner": "Houston"
+        }
+    },
+    "round5": {
+        "game1": {
+            "team1": "Auburn",
+            "team2": "Florida",
+            "winner": "Auburn"
+        },
+        "game2": {
+            "team1": "Duke",
+            "team2": "Houston",
+            "winner": "Houston"
+        }
+    },
+    "round6": {
+        "game1": {
+            "team1": "Auburn",
+            "team2": "Houston",
+            "winner": "Houston"
+        }
+    }
+}
