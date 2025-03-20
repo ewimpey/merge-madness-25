@@ -13,7 +13,7 @@
         "game3": {
             "team1": "American",
             "team2": "Mount St Mary's",
-            "winner": "American"
+            "winner": "Mount St Mary's"
         },
         "game4": {
             "team1": "San Diego St",
@@ -104,7 +104,7 @@
         },
         "game17": {
             "team1": "Duke",
-            "team2": "American",
+            "team2": "Mount St Mary's",
             "winner": "Duke"
         },
         "game18": {
@@ -242,7 +242,7 @@
         "game12": {
             "team1": "Saint Mary's",
             "team2": "Alabama",
-            "winner": "Saint Mary's"
+            "winner": "Alabama"
         },
         "game13": {
             "team1": "Houston",
@@ -293,8 +293,8 @@
         },
         "game6": {
             "team1": "Wisconsin",
-            "team2": "Saint Mary's",
-            "winner": "Wisconsin"
+            "team2": "Alabama",
+            "winner": "Alabama"
         },
         "game7": {
             "team1": "Houston",
@@ -320,7 +320,7 @@
         },
         "game3": {
             "team1": "Duke",
-            "team2": "Wisconsin",
+            "team2": "Alabama",
             "winner": "Duke"
         },
         "game4": {
