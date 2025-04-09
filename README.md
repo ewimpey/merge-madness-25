@@ -1,3 +1,5 @@
+# Congratulations to [JDogTohko999](https://github.com/JDogTohko999) for winning the 2024 Merge Madness! 
+
 # Welcome to Merge Madness 25!
 ![Merge Madness](/helpers/merge-madness.jpg)
 
